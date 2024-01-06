@@ -1,0 +1,10 @@
+{
+  "name": "Monster Hunter World OST: Gorgeous Days - Private Suite 華やかなりし日々 ～ 特等マイハウス [HQ | 4K]",
+  "description": " MHW music pack with the private siut ost",
+  "author": "Hiroshima21",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
